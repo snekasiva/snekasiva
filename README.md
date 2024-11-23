@@ -1,5 +1,5 @@
-## Hi 👋 I'm Sneka S
- **Full Stack Developer**
+                                                                          ## Hi 👋 I'm Sneka S
+                                                                         **Full Stack Developer**
 - 🌱 I'm currently learning Full Stack Developement
 - 👨‍💻 All of my projects are available at (https://my-portfolio-sigma-jade-34.vercel.app/skill)
 - 👯 I’m looking to collaborate on ...
