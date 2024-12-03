@@ -7,4 +7,4 @@
   
 - 💬 Ask me about HTML,CSS,JAVASCRIPT,REACT,NODEJS,MONGODB,PYTHON.
   
-- 📫 How to reach me:sneka1606@gmail.com
+- 📫 How to reach me :sneka1606@gmail.com
